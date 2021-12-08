@@ -1,0 +1,21 @@
+GitHub
+https://github.com/Ravjot03/Predicting-Credit-Card-Approvals
+https://medium.datadriveninvestor.com/predicting-credit-card-approvals-using-ml-techniques-9cd8eaeb5b8c - data with text.
+
+https://github.com/Nikhil-Pandarge/Credit-Card-Approval-Prediction
+
+http://archive.ics.uci.edu/ml/datasets/credit+approval
+
+
+https://developers.google.com/machine-learning/crash-course/classification/roc-and-auc
+https://www.kaggle.com/sonalisingh1411/customer-churn-eda-top-5-models-comparion-95
+https://www.kaggle.com/miguelfzzz/customer-churn-smote-pca-clusters-prediction
+https://www.kaggle.com/vivek468/will-the-customer-churn
+https://www.kaggle.com/kauvinlucas/xgboost-imblearn-pipeline-for-classification
+https://www.kaggle.com/chetbounl/data-exploration-model-evaluation-on-bankchurners
+https://www.kaggle.com/sakshigoyal7/credit-card-customers/version/1
+https://www.tigeranalytics.com/blog/addressing-customer-churn-in-banking/
+https://towardsdatascience.com/skewed-data-a-problem-to-your-statistical-model-9a6b5bb74e37
+https://www.itl.nist.gov/div898/handbook/eda/section3/eda35b.htm
+https://www.investopedia.com/terms/k/kurtosis.asp
+https://xgboost.readthedocs.io/en/latest/parameter.html
